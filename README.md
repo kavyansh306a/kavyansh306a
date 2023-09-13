@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kavyansh Sharma
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in languages, frameworks, industries
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
